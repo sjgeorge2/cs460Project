@@ -28,20 +28,26 @@ remain in the 2 biggest operational system available, iOS and Android.
 
 FIRST WEEK - GIT preparation and Project Plan. 
 Status: Done.
+
 SECOND WEEK - Reunion to stabilish the scope of the work and to research what kind of
 software leads the area. If possible, starts the tests.
-Status: In time.
+Status: Done.
+
 THIRD WEEK - Start testing and studys of how these operational systems works internally
 and what is important to a forensic investigator searchs and why.
 Status: In time.
+
 FORTH WEEK - More complex testing and approfundation in what tools are available to this
 kind of platform.
 Status: In time.
+
 FIFTH WEEK - Start discussing the results and start the presentation plans.
 Status: In time.
+
 SIXTH WEEK - Finnish the presentation slides and discuss about how the presentation will be
 separated.
 Status: In time.
+
 SEVENTH WEEK - Finnish everything and preparing mentally to the presentation.
 Status: In time.
 Presentation: To be discussed.
